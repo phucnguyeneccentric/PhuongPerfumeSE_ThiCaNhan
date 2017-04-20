@@ -36,6 +36,7 @@ public class ChinhSachServlet extends HttpServlet {
         
         //Học viên viết thêm các lệnh vào đây để thực hiện...
         
+        
         request.getRequestDispatcher("Views/chinh-sach.jsp").include(request, response);
     }
 

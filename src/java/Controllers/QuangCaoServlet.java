@@ -5,8 +5,11 @@
  */
 package Controllers;
 
+import BusinessLogics.QuangCaoBL;
+import JavaBeans.QuangCao;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.List;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -35,6 +38,8 @@ public class QuangCaoServlet extends HttpServlet {
         request.setCharacterEncoding("UTF-8");
         
         //Học viên viết thêm các lệnh vào đây để thực hiện...
+        List<QuangCao> listqc = QuangCaoBL.listAll();
+        request.setAttribute("listqc", listqc);
         
         request.getRequestDispatcher("Views/quang-cao.jsp").include(request, response);
     }

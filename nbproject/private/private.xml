@@ -2,22 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/ChinhSachServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/ThuongHieuServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/SanPhamServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/DatHangServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/DanhGiaServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/BanChayYeuThichServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/SanPhamMoiServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/DangNhapServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/DangXuatServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/ThemVaoGioServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/CuaHangServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/LoaiSanPhamServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/QuangCaoServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/ThanhToanServlet.java</file>
-            <file>file:/C:/Users/Public/Documents/PhuongPerfumeSE_ThiCaNhan/src/java/Controllers/GioHangServlet.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

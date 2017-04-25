@@ -41,22 +41,29 @@ public final class trang_002dchu_jsp extends org.apache.jasper.runtime.HttpJspBa
       _jspx_out = out;
       _jspx_resourceInjector = (org.glassfish.jsp.api.ResourceInjector) application.getAttribute("com.sun.appserv.jsp.resource.injector");
 
-      out.write("\n");
-      out.write("\n");
-      out.write("\n");
+      out.write("\r\n");
+      out.write("\r\n");
+      out.write("\r\n");
       org.apache.jasper.runtime.JspRuntimeLibrary.include(request, response, "Views/dau-trang.jsp?page=1", out, false);
+      out.write('\r');
       out.write('\n');
       org.apache.jasper.runtime.JspRuntimeLibrary.include(request, response, "ChinhSachServlet", out, false);
+      out.write('\r');
       out.write('\n');
       org.apache.jasper.runtime.JspRuntimeLibrary.include(request, response, "QuangCaoServlet", out, false);
+      out.write('\r');
       out.write('\n');
       org.apache.jasper.runtime.JspRuntimeLibrary.include(request, response, "SanPhamMoiServlet", out, false);
+      out.write('\r');
       out.write('\n');
       org.apache.jasper.runtime.JspRuntimeLibrary.include(request, response, "ThuongHieuServlet", out, false);
+      out.write('\r');
       out.write('\n');
       org.apache.jasper.runtime.JspRuntimeLibrary.include(request, response, "BanChayYeuThichServlet", out, false);
+      out.write('\r');
       out.write('\n');
       org.apache.jasper.runtime.JspRuntimeLibrary.include(request, response, "Views/cuoi-trang.jsp", out, false);
+      out.write('\r');
       out.write('\n');
     } catch (Throwable t) {
       if (!(t instanceof SkipPageException)){
